@@ -1,3 +1,6 @@
-1. Fix the grouping of the cars based on the fuel type
+1. Fix fuelType and premium columns
 2. replicate the process for the 4 fuel types
 3. feScore ???
+4. Is it possible to approximate feScore, co2
+5. Fill vallues for: 
+X_train[X_train['automatic'].isna()]
